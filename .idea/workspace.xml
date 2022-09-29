@@ -49,7 +49,14 @@
     "settings.editor.selected.configurable": "consents"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CatRunner">
+    <configuration name="CatRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CatRunner" />
+      <module name="ZhengU2L1Lab1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RectangleRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RectangleRunner" />
       <module name="ZhengU2L1Lab1" />
@@ -59,6 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CatRunner" />
         <item itemvalue="Application.RectangleRunner" />
       </list>
     </recent_temporary>
